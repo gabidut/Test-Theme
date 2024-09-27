@@ -1,19 +1,19 @@
 {
-    "name": "Omega Blue",
-    "icons": "omega_blue",
+    "name": "Omega Love",
+    "icons": "omega_love",
     "colors": {
-        "PrimaryText": "000000",
-        "SecondaryText": "6e6e6e",
+        "PrimaryText": "e87aff",
+        "SecondaryText": "ae5cbf",
         "AccentText": "a81928",
         "ApproximateSignText": "595959",
         "ApproximateExpressionText": "595959",
         "Background": {
-            "Hard": "ffffff",
+            "Hard": "e87aff",
             "Apps": "fafafa",
             "AppsSecondary": "f0f0f0"
         },
         "Toolbar": {
-            "": "2e62af",
+            "": "af2e9d",
             "Text": "ffffff"
         },
         "ExpressionInput": {
